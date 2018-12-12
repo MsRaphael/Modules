@@ -52,5 +52,17 @@ You can just use one parameter [year] if you only for display one number. If you
 
 顺便说一下，不建议使用多个参数控制模块，最好分次调用此模块
 
-By the way. The module has some bug. It maybe some err if you want to use it with mult-parameter. you can get it for double or more times for show more than single group numbers .ss
+By the way. The module has some bug. It maybe some err if you want to use it with mult-parameter. you can get it for double or more times for show more than single group numbers 
+
+
+
+---
+
+### 2018年12月12日更新 对应文件[Seven_segment_digital_tube_sourcec_code _upgrade_1_0_0_1.py]
+
+#### December 12, 2018 Update [Seven_segment_digital_tube_sourcec_code _upgrade_1_0_0_1.py]
+
+##### 增加[drawDigitPro(digit,space,size)]函数，可以通过此函数绘制单个数码管，并且可以使用space参数定义两根管子之间的间隙，默认是5，以及使用size参数定义管子大小，默认是35
+
+Add [drawDigitPro(digit,space,size)] as a new  fuction. The gap between the two pipes can be defined by using the space parameter, which defaults to 5, and the size of the pipe can be defined by using the size parameter, which defaults to 35.
 
