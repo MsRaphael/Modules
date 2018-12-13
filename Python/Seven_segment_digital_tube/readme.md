@@ -59,7 +59,7 @@ By the way. The module has some bug. It maybe some err if you want to use it wit
 
 * * *
 
-### 2018年12月12日更新
+### 2018年12月12日更新 [Seven_segment_digital_tube_sourcec_code _upgrade_1_0_0_1.py]
 
 #### December 12, 2018 Update
 
@@ -69,7 +69,7 @@ Add [drawDigitPro(digit,space,size)] as a new fuction. The gap between the two p
 
 * * *
 
-### 2018年12月13日更新
+### 2018年12月13日更新 [Seven_segment_digital_tube_sourcec_code _upgrade_1_0_0_2.py]
 
 ### [今天是南京大屠杀死难者国家公祭日，谨以此更新献给那些在屠杀中遇难的同胞，以及奋勇抗战的中国军人！！！]
 
