@@ -73,7 +73,7 @@ Add [drawDigitPro(digit,space,size)] as a new fuction. The gap between the two p
 
 ### [今天是南京大屠杀死难者国家公祭日，谨以此更新献给那些在屠杀中遇难的同胞，以及奋勇抗战的中国军人！！！]
 
-#### December 13, 2018 Update
+#### December 13, 2018 Update
 
 #### [Today is the National Day of Sacrifice for the Victims of the Nanjing Massacre. I would like to renew my dedication to those who were killed in the massacre, as well as to the Chinese soldiers who fought bravely against Japan.]
 
@@ -86,6 +86,6 @@ Add [drawDigitPro(digit,space,size)] as a new fuction. The gap between the two p
 
 #### 本来今天想加一个新功能的，但是为了纪念抗战死难者和军人，今天的更新推迟到12月14日。
 
-#### Originally I wanted to add a new function today, but to commemorate the victims and soldiers of the Anti-Japanese War, today's update was postponed to December 14.Originally I wanted to add a new function today, but to commemorate the victims and soldiers of the Anti-Japanese War, today's update was postponed to December 14.
+#### Originally I wanted to add a new function today, but to commemorate the victims and soldiers of the Anti-Japanese War, today's update was postponed to December 14.Originally I wanted to add a new function today, but to commemorate the victims and soldiers of the Anti-Japanese War, today's update was postponed to December 14.
 
 * * *
